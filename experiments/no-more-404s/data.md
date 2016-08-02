@@ -39,12 +39,15 @@ gradient stop: #222222
 
 ### Contributors
 
+**Name:** The Internet Archive
+
+
 **Name:** Mark Graham
-**Title:** Director, Wayback Machine
+**Title:** Director - Wayback Machine, Internet Archive
 **Avatar** [visual-assets/avatars/mark.png](visual-assets/avatars/mark.png)
 
 **Name:** Richard Caceres
-**Title:** Developer, Wayback Machine
+**Title:** Developer - Wayback Machine, Internet Archive
 **Avatar** [visual-assets/avatars/richard.jpg](visual-assets/avatars/richard.jpg)
 
 ### Title
@@ -57,11 +60,12 @@ No More 404s
 Tired of dead ends on the web? We'll let you know when there's a saved version of what you're looking for on the Wayback Machine.
 
 ### Measurements
-In addition to the data collected by all Test Pilot experiments, here are the key things you should know about what is happening when you use No More 404s:
+In addition to the <a href="https://testpilot.firefox.com/privacy" target="_blank">data</a> collected by all Test Pilot experiments, here are the key things you should know about what is happening when you use No More 404s:
 <ul>
 <li>We collect basic usage on how many times you encounter a Page Not Found error (code 404), how many times a cached version of that page exists from Archive.org, and how many times you choose to view the cached version.</li>
 <li>To provide cached versions of pages, we send 404 error page URLs to Archive.org. <a href="https://archive.org/" target=_blank">Archive.org</a> discloses its privacy policy <a href="https://archive.org/about/terms.php" target="blank">here</a>.</li>
 <li>We do not  collect  URLs of the pages you request or the URLs we send to Archive.org.</li>
+<li>We may share survey results you submit to us and aggregated telemetry data related to this experiment with the Internet Archive.</li>
 </ul>
 
 ### Introduction
@@ -81,7 +85,7 @@ Markdown
 LEAVE BLANK, ADD A SPACE
 
 #### Copy 
-Reduce 404s with the Wayback Machine.
+Reduce 404 dead ends with the Wayback Machine.
 
 #### Image
 [visual-assets/details-images/details-image-1.png](visual-assets/details-images/details-image-1.png)
