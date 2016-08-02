@@ -54,19 +54,21 @@ No More 404s
 No More 404s
 
 ### Description
-Tired of dead ends on the web? We'll let you know when there's a saved version of what you're looking for at the Internet Archive.
+Tired of dead ends on the web? We'll let you know when there's a saved version of what you're looking for on the Wayback Machine.
 
 ### Measurements
 In addition to the data collected by all Test Pilot experiments, here are the key things you should know about what is happening when you use No More 404s:
-* We collect basic usage on how many times you encounter a Page Not Found error (code 404), how many times a cached version of that page exists from Archive.org, and how many times you choose to view the cached version. 
-* To provide cached versions of pages, we send 404 error page URLs to Archive.org. Archive.org discloses its privacy policy here [https://archive.org/about/terms.php](https://archive.org/about/terms.php)
-* We do not  collect  URLs of the pages you request or the URLs we send to Archive.org
+<ul>
+<li>We collect basic usage on how many times you encounter a Page Not Found error (code 404), how many times a cached version of that page exists from Archive.org, and how many times you choose to view the cached version.</li>
+<li>To provide cached versions of pages, we send 404 error page URLs to Archive.org. <a href="https://archive.org/" target=_blank">Archive.org</a> discloses its privacy policy <a href="https://archive.org/about/terms.php" target="blank">here</a>.</li>
+<li>We do not  collect  URLs of the pages you request or the URLs we send to Archive.org.</li>
+</ul>
 
 ### Introduction
-This one is simple. If you hit a 404 page while browsing the web, we will let you know if the content you're looking for is archived on the Wayback Machine.
+This one is simple. If you hit a 404 page while browsing the web, we will let you know if the content you're looking for is archived on the Internet Archive's Wayback Machine.
 
 ### Measurements markup type
-Markdown
+HTML
 
 ### Introduction markup type
 Markdown
@@ -100,7 +102,7 @@ Brought to you by our friends at the Internet Archive.
 ### Onboarding Steps 1
 
 #### Copy 
-Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available in the Wayback Machine.
+Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available on the Wayback Machine.
 
 #### Image
 [visual-assets/onboarding-images/onboarding-image-1.png](visual-assets/onboarding-images/onboarding-image-1.png)
