@@ -4,14 +4,13 @@
 no-more-404s
 
 ### Thumbnail
-[visual-assets/icon@2x.png](visual-assets/icon@2x.png)
+[visual-assets/test-pilot-icons/icon@2x.png](visual-assets/test-pilot-icons/icon@2x.png)
 
 ### xpi
-Note: THIS NEEDS TO BE UPDATED @clouserw
-https://testpilot.cdn.mozilla.net/nomore404s/wayback_machine-1.5.0-fx.xpi
+https://testpilot.cdn.mozilla.net/nomore404s/wayback_machine-**VERSION NUMBER HERE**-fx.xpi
 
 ### Version
-TBD
+**VERSION NUMBER ELSEWHERE**
 
 ### Changelog URL
 https://github.com/internetarchive/FirefoxNoMore404s/blob/master/Changelog.md
@@ -19,7 +18,7 @@ https://github.com/internetarchive/FirefoxNoMore404s/blob/master/Changelog.md
 ### Contribute URL
 https://github.com/internetarchive/FirefoxNoMore404s
 
-#Bug report URL
+### Bug report URL
 https://github.com/internetarchive/FirefoxNoMore404s/issues/new
 
 ### Discourse URL
@@ -37,6 +36,16 @@ gradient start: #111111
 
 ### Gradient Stop
 gradient stop: #222222
+
+### Contributors
+
+**Name:** Mark Graham
+**Title:** Director, Wayback Machine
+**Avatar** [visual-assets/avatars/mark.png](visual-assets/avatars/mark.png)
+
+**Name:** Richard Caceres
+**Title:** Developer, Wayback Machine
+**Avatar** [visual-assets/avatars/richard.jpg](visual-assets/avatars/richard.jpg)
 
 ### Title
 No More 404s
@@ -70,10 +79,10 @@ Markdown
 LEAVE BLANK, ADD A SPACE
 
 #### Copy 
-Reduce 404s with the Wayback Machine
+Reduce 404s with the Wayback Machine.
 
 #### Image
-[visual-assets/placeholder.png](visual-assets/placeholder.png)
+[visual-assets/details-images/details-image-1.png](visual-assets/details-images/details-image-1.png)
 
 ### Experiment Details 2
 
@@ -91,17 +100,18 @@ Brought to you by our friends at the Internet Archive.
 ### Onboarding Steps 1
 
 #### Copy 
-Just browse the web as you normally do. If you encouter a 404 page, we will let you know if an archived version is a available in the Wayback Machine.
+Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available in the Wayback Machine.
 
 #### Image
-[visual-assets/placeholder.png](visual-assets/placeholder.png)
+[visual-assets/onboarding-images/onboarding-image-1.png](visual-assets/onboarding-images/onboarding-image-1.png)
 
-### Onboarding Steps 3
+### Onboarding Steps 2
 
 #### Copy 
-Feedback TKTKTK
+You can always give us feedback or disable No More 404s from Test Pilot.
 
 #### Image
-[visual-assets/placeholder.png](visual-assets/placeholder.png)
+[visual-assets/onboarding-images/onboarding-image-2.png](visual-assets/onboarding-images/onboarding-image-2.png)
+
 
 
