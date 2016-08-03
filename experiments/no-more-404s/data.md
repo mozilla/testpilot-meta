@@ -32,23 +32,27 @@ https://github.com/internetarchive/FirefoxNoMore404s/blob/master/docs/metrics.md
 wayback_machine@mozilla.org
 
 ### Gradient Start
-gradient start: #111111
+#111111
 
 ### Gradient Stop
-gradient stop: #222222
+#222222
 
 ### Contributors
 
 **Name:** The Internet Archive
 
 
-**Name:** Mark Graham
-**Title:** Director - Wayback Machine, Internet Archive
-**Avatar** [visual-assets/avatars/mark.png](visual-assets/avatars/mark.png)
+**Name:** Mark Graham  
+**Title:** Director - Wayback Machine, Internet Archive  
+**Avatar** [visual-assets/avatars/mark.png](visual-assets/avatars/mark.png)  
 
-**Name:** Richard Caceres
+**Name:** Richard Caceres  
 **Title:** Developer - Wayback Machine, Internet Archive
-**Avatar** [visual-assets/avatars/richard.jpg](visual-assets/avatars/richard.jpg)
+**Avatar** [visual-assets/avatars/richard.jpg](visual-assets/avatars/richard.jpg)  
+
+**Name:** Adam Miller
+**Title:** Senior Crawl Engineer, Internet Archive
+**Avatar:** [visual-assets/avatars/adam.jpg](visual-assets/avatars/adam.jpg)
 
 ### Title
 No More 404s
