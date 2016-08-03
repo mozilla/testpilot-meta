@@ -40,11 +40,12 @@ wayback_machine@mozilla.org
 ### Contributors
 
 **Name:** The Internet Archive
+**Avatar:** [visual-assets/avatars/ia-contrib.png](visual-assets/avatars/ia-contrib.png)  
 
 
 **Name:** Mark Graham  
 **Title:** Director - Wayback Machine, Internet Archive  
-**Avatar** [visual-assets/avatars/mark.png](visual-assets/avatars/mark.png)  
+**Avatar** [visual-assets/avatars/mark.jpg](visual-assets/avatars/mark.jpg)  
 
 **Name:** Richard Caceres  
 **Title:** Developer - Wayback Machine, Internet Archive
@@ -92,7 +93,7 @@ LEAVE BLANK, ADD A SPACE
 Reduce 404 dead ends with the Wayback Machine.
 
 #### Image
-[visual-assets/details-images/details-image-1.png](visual-assets/details-images/details-image-1.png)
+[visual-assets/details-images/details-image-1.jpg](visual-assets/details-images/details-image-1.jpg)
 
 ### Experiment Details 2
 
@@ -103,7 +104,7 @@ LEAVE BLANK, ADD A SPACE
 Brought to you by our friends at the Internet Archive.
 
 #### Image
-[visual-assets/details-images/details-image-2.png](visual-assets/details-images/details-image-2.png)
+[visual-assets/details-images/details-image-2.jpg](visual-assets/details-images/details-image-2.jpg)
 
 ## Onboarding Steps
 
@@ -113,7 +114,7 @@ Brought to you by our friends at the Internet Archive.
 Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available on the Wayback Machine.
 
 #### Image
-[visual-assets/onboarding-images/onboarding-image-1.png](visual-assets/onboarding-images/onboarding-image-1.png)
+[visual-assets/onboarding-images/onboarding-image-1.jpg](visual-assets/onboarding-images/onboarding-image-1.jpg)
 
 ### Onboarding Steps 2
 
@@ -121,7 +122,7 @@ Just browse the web as you normally do. If you encounter a 404 page, we will let
 You can always give us feedback or disable No More 404s from Test Pilot.
 
 #### Image
-[visual-assets/onboarding-images/onboarding-image-2.png](visual-assets/onboarding-images/onboarding-image-2.png)
+[visual-assets/onboarding-images/onboarding-image-2.jpg](visual-assets/onboarding-images/onboarding-image-2.jpg)
 
 
 
