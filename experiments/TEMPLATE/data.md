@@ -1,0 +1,95 @@
+## TITLE GOES HERE
+
+### Slug
+SLUG GOES HERE (NOTE: SURVEY GIZMO URL MUST MATCH SLUG)
+
+### Thumbnail
+LINK GOES HERE, IMAGE SHOULD BE IN /visual-assets/test-pilot-icons
+
+### xpi
+URL GOES HERE, PLEASE NOTE IF URL CONTAINS RELEASE NUMBER
+
+### Version
+THIS MAY BE ADDED DIRECTLY INTO ADMIN
+
+### Changelog URL
+URL GOES HERE
+
+### Contribute URL
+URL GOES HERE
+
+### Bug report URL
+URL GOES HERE
+
+### Discourse URL
+URL GOES HERE
+
+### Privacy notice URL
+URL GOES HERE
+
+### Addon ID
+ID GOES HERE
+
+### Gradient Start
+HEX VAL GOES HERE
+
+### Gradient Stop
+URL GOES HERE
+
+### Contributors
+
+REPEAT THE FOLLOWING FOR EACH CONTRIBUTOR  
+
+**Name:** NAME GOES HERE  
+**Title:** TITLE GOES HERE  
+**Avatar** AVATAR LINK GOES HERE, IMAGES SHOULD BE IN /visual-assets/avatars/  
+
+
+### Title
+TITLE GOES HERE
+
+### Short Title
+SHORT TITLE GOES HERE, SHOULD MATCH TITLE UNLESS DISCUSSED
+
+### Description
+DESCRIPTION GOES HERE
+
+### Measurements
+SHORT PRIVACY NOTICE GOES HERE
+
+### Introduction
+INTRODUCTION
+
+### Measurements markup type
+SPECIFY FORMAT (PROBABLY MARKDOWN)
+
+### Introduction markup type
+SPECIFY FORMAT (PROBABLY MARKDOWN)
+
+## Experiment Details
+
+### Experiment Details 1
+
+REPEAT THE FOLLOWING FOR EACH DETAIL IMAGE  
+
+#### Headline
+CAPTION HEADLINE GOES HERE, IF BLANK, REMEMBER TO ADD A SPACE IN THE ADMIN
+
+#### Copy 
+CAPTION COPY GOES HERE
+
+#### Image
+LINK TO IMAGE GOES HERE...IMAGE SHOULD BE IN /visual-assets/details-images/
+
+## Onboarding Steps
+
+REPEAT THE FOLLOWING FOR EACH ONBOARDING IMAGE  
+
+### Onboarding Steps 1
+
+#### Copy 
+CARD COPY GOES HERE
+
+#### Image
+LINK TO IMAGE GOES HERE...IMAGE SHOULD BE IN /visual-assets/onboarding-images/
+

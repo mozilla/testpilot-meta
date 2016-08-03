@@ -111,7 +111,7 @@ Brought to you by our friends at the Internet Archive.
 ### Onboarding Steps 1
 
 #### Copy 
-Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available on the Wayback Machine.
+Just browse the web as you normally do. If you encounter a 404 page, we will let you know if an archived version is a available on the Internet Archive's Wayback Machine.
 
 #### Image
 [visual-assets/onboarding-images/onboarding-image-1.jpg](visual-assets/onboarding-images/onboarding-image-1.jpg)
@@ -122,7 +122,7 @@ Just browse the web as you normally do. If you encounter a 404 page, we will let
 You can always give us feedback or disable No More 404s from Test Pilot.
 
 #### Image
-[visual-assets/onboarding-images/onboarding-image-2.jpg](visual-assets/onboarding-images/onboarding-image-2.jpg)
+[visual-assets/onboarding-images/onboarding-image-2.jpg](visual-assets/onboarding-images/onboarding-image-2.jp g)
 
 
 
