@@ -22,8 +22,7 @@ https://github.com/internetarchive/FirefoxNoMore404s
 https://github.com/internetarchive/FirefoxNoMore404s/issues/new
 
 ### Discourse URL
-TODO: get actual category URL once it exists
-https://discourse.mozilla-community.org/c/test-pilot/
+https://discourse.mozilla-community.org/c/test-pilot/nomore404s
 
 ### Privacy notice URL
 https://github.com/internetarchive/FirefoxNoMore404s/blob/master/docs/metrics.md
