@@ -1,5 +1,0 @@
-ONBOARDING IMAGES GO HERE  
-
-SHOULD BE 1280px x WHATEVER  
-
-[DON'T FORGET TO OPTIMIZE](https://imageoptim.com/mac)  
